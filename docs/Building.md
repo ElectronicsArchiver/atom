@@ -1,11 +1,9 @@
 
 # Building
 
-- [![Button Windows]][Windows]
-
-- [![Button Mac]][Mac]
-
-- [![Button Linux]][Linux]
+[![Button Windows]][Windows]   
+[![Button Mac]][Mac]   
+[![Button Linux]][Linux]
 
 <br>
 
